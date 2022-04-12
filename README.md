@@ -3,8 +3,8 @@ Seminar paper from Databases 1, about Database connectivity using PHP and displa
 
 ## Projektni tim
 
-Elementi praćenja | Max. bodovi | Uvjet za potpis | Uvjet za ocjenu
-----------------  | ----------- | --------------- | ---------------
+Elementi praćenja | Max. bodovi | Uvjet za potpis | Uvjet za ocjenu |
+----------------  | ----------- | --------------- | --------------- |
 1. teorijski kolokvij | 25 | 0 | 11
 2. teorijski kolokvij | 25 | 0| 11
 Zadaća 1 | 15 | 6 | 6
