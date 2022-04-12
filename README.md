@@ -7,10 +7,10 @@ Seminar paper from Databases 1, about Database connectivity using PHP and displa
 |:---------------------:|-------------|-----------------|-----------------|
 | 1. teorijski kolokvij | 25          | 0               |              11 |
 | 2. teorijski kolokvij | 25          | 0               | 11              |
-|        Zadaća 1       | 15          | 6               | 6               |
-|        Zadaća 2       | 15          | 6               | 6               |
+| Zadaća 1       | 15          | 6               | 6               |
+| Zadaća 2       | 15          | 6               | 6               |
 | Zadaća 3              | 20          | 8               | 8               |
-| Ukupno                | 100         |                 |                 |
+| Ukupno| 100         |                 |                 |
 
 Bodovi od | Dobodovi do | Ocjena |
 --------  | ----------- | ------ |
