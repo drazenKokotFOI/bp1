@@ -12,8 +12,8 @@ Zadaća 2 | 15 | 6 | 6
 Zadaća 3 | 20 | 8 | 8
 Ukupno | 100 
 
-Bodovi od | Dobodovi do | Ocjena | Uvjet za ocjenu
---------  | ----------- | ------ | ---------------
+Bodovi od | Dobodovi do | Ocjena |
+--------  | ----------- | ------ |
 0 | 49 | 1
 50 | 60 | 2
 61 | 75 | 3
