@@ -3,9 +3,19 @@ Seminar paper from Databases 1, about Database connectivity using PHP and displa
 
 ## Projektni tim
 
-Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
-------------  | ------------------- | ----- | ---------------------
-Emanuel Kukec | ekukec@foi.hr | 016143760 | ekukec
-Rafael Dominik Lakoseljac | rlakoselj@foi.hr | 016143141| RafDomLak
-Dražen Kokot | dkokot@foi.hr | 016145515 | drazenKokotFOI
-Dominik Težak | dtezak@foi.hr | 016145791 | xDoTez
+Elementi praćenja | Max. bodovi | Uvjet za potpis | Uvjet za ocjenu
+----------------  | ----------- | --------------- | ---------------
+1. teorijski kolokvij | 25 | 0 | 11
+2. teorijski kolokvij | 25 | 0| 11
+Zadaća 1 | 15 | 6 | 6
+Zadaća 2 | 15 | 6 | 6
+Zadaća 3 | 20 | 8 | 8
+Ukupno | 100 |  | 
+
+Bodovi od | Dobodovi do | Ocjena | Uvjet za ocjenu
+--------  | ----------- | ------ | ---------------
+0 | 49 | 1
+50 | 60 | 2
+61 | 75 | 3
+76 | 90 | 4
+91 | 100 | 5
