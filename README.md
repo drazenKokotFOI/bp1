@@ -11,7 +11,7 @@ Welcome to my README!
     <h1 class="money">Izi money red</h1>
 </div>
 
-# bp1
+# 1. bp1
 Seminar paper from Databases 1, about Database connectivity using PHP and displaying using HTML and styling with CSS.
 
 ## Projektni tim
@@ -33,10 +33,16 @@ Bodovi od | Dobodovi do | Ocjena |
 76 | 90 | 4
 91 | 100 | 5
 
-# Naslov 1 hestag
+# 1.Naslov 1 hestag
 
-## Naslov 2 hestega
+## 1.Naslov 2 hestega
 
-## Naslov 3 hestega
+## 1.Naslov 3 hestega
 
-## Naslov 4 hestega
+## 1.Naslov 4 hestega
++
+----------
+## 1. Naslov 4 hestega
+## 1. Naslov 4 hestega
+## 1. Naslov 4 hestega 
+## 1. Naslov 4 hestega
