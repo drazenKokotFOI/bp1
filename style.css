@@ -1,2 +1,13 @@
+h1 {
+  color: red;
+  animation: myanimation 2s infinite;
+}
 
-h1{color:red;}
+@keyframes myanimation {
+  from {
+    color: red;
+  }
+  to {
+    color: yellow;
+  }
+}
