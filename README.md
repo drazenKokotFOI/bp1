@@ -2,8 +2,13 @@
 
 Welcome to my README!
 
+<style>
+    .money{color:red;}
+</style>
 <div align="center">
     <img src="example.svg" width="400" height="400" alt="css-in-readme">
+    <h1>Izi money</h1>
+    <h1 class="money">Izi money red</h1>
 </div>
 
 # bp1
