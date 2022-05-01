@@ -1,3 +1,10 @@
+# My GitHub README
+
+Welcome to my README!
+
+<div align="center">
+    <img src="example.svg" width="400" height="400" alt="css-in-readme">
+</div>
 
 # bp1
 Seminar paper from Databases 1, about Database connectivity using PHP and displaying using HTML and styling with CSS.
